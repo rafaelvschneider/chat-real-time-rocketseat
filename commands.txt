@@ -1,0 +1,2 @@
+npm init -y (criar o package.json)
+yarn add ejs express socket.io
